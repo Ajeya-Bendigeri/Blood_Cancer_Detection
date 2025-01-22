@@ -1,5 +1,4 @@
 Blood Cancer Detection 
-Introduction 
 Blood cancer, or hematologic malignancy, refers to a group of 
 cancers that affect the blood, bone marrow, and lymphatic system. 
 Timely and accurate detection of blood cancer is crucial for 
